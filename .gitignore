@@ -1,3 +1,4 @@
 *.log
 **/*.log
 **/*.temp
+project1/settings.py
